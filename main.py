@@ -51,6 +51,23 @@ def put_id_anime(id):
     else:
         return "no se encontro el objeto"
 
+@app.route("/anime/<int:id>", methods = ['PATCH'])
+def patch_id_anime(id):
+    patch_by_id= None
+    for i in datos:
+        if i["id"]==id:
+            patch_by_id = i
+            break
+    if patch_by_id:
+        patch_by_id['titulo'] = request.json['titulo']
+        patch_by_id['puntaje'] = request.json['puntaje']
+
+        return jsonify({"mensaje":"anime actualizado", "anime": patch_by_id})
+    else:
+        return "no se encontro el objeto"
+
+
+
 @app.route("/anime/<int:id>", methods = ['DELETE'])
 def delete_by_id(id):
     delete_by_id = None
