@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "titulo": "Naruto",
+    "puntaje": 9,
+    "tipo": "serie",
+    "genero": ["accion", "aventura", "ninja"]
+  },
+  {
+    "id": 2,
+    "titulo": "One Piece",
+    "puntaje": 10,
+    "tipo": "serie",
+    "genero": ["aventura", "accion", "comedia"]
+  },
+  {
+    "id": 3,
+    "titulo": "Attack on Titan",
+    "puntaje": 9,
+    "tipo": "serie",
+    "genero": ["accion", "drama", "fantasia"]
+  },
+  {
+    "id": 4,
+    "titulo": "Fullmetal Alchemist: Brotherhood",
+    "puntaje": 10,
+    "tipo": "serie",
+    "genero": ["aventura", "fantasia", "accion"]
+  },
+  {
+    "id": 5,
+    "titulo": "Death Note",
+    "puntaje": 9,
+    "tipo": "serie",
+    "genero": ["psicologico", "sobrenatural", "misterio"]
+  },
+  {
+    "id": 6,
+    "titulo": "My Hero Academia",
+    "puntaje": 8,
+    "tipo": "serie",
+    "genero": ["accion", "superpoderes", "escolar"]
+  },
+  {
+    "id": 7,
+    "titulo": "Dragon Ball Super",
+    "puntaje": 9,
+    "tipo": "serie",
+    "genero": ["accion", "pelea", "aventura"]
+  },
+  {
+    "id": 8,
+    "titulo": "One Punch Man",
+    "puntaje": 10,
+    "tipo": "serie",
+    "genero": ["accion", "comedia", "parodia"]
+  },
+  {
+    "id": 9,
+    "titulo": "Demon Slayer",
+    "puntaje": 9,
+    "tipo": "serie",
+    "genero": ["accion", "sobrenatural", "aventura"]
+  },
+  {
+    "id": 10,
+    "titulo": "Hunter x Hunter",
+    "puntaje": 10,
+    "tipo": "serie",
+    "genero": ["aventura", "accion", "fantasia"]
+  },
+  {
+    "id": 11,
+    "titulo": "Tokyo Ghoul",
+    "puntaje": 8,
+    "tipo": "serie",
+    "genero": ["accion", "terror", "sobrenatural"]
+  },
+  {
+    "id": 12,
+    "titulo": "Sword Art Online",
+    "puntaje": 7,
+    "tipo": "serie",
+    "genero": ["accion", "aventura", "fantasia"]
+  },
+  {
+    "id": 13,
+    "titulo": "Neon Genesis Evangelion",
+    "puntaje": 9,
+    "tipo": "serie",
+    "genero": ["mecha", "psicologico", "drama"]
+  },
+  {
+    "id": 14,
+    "titulo": "Cowboy Bebop",
+    "puntaje": 10,
+    "tipo": "serie",
+    "genero": ["accion", "ciencia ficcion", "aventura"]
+  },
+  {
+    "id": 15,
+    "titulo": "Fairy Tail",
+    "puntaje": 8,
+    "tipo": "serie",
+    "genero": ["aventura", "magia", "fantasia"]
+  },
+  {
+    "id": 16,
+    "titulo": "Black Clover",
+    "puntaje": 7,
+    "tipo": "serie",
+    "genero": ["aventura", "magia", "accion"]
+  },
+  {
+    "id": 17,
+    "titulo": "Dragon Ball Z",
+    "puntaje": 10,
+    "tipo": "serie",
+    "genero": ["accion", "pelea", "entretenimiento"]
+  },
+  {
+    "id": 18,
+    "titulo": "JoJo's Bizarre Adventure",
+    "puntaje": 9,
+    "tipo": "serie",
+    "genero": ["accion", "aventura", "sobrenatural"]
+  },
+  {
+    "id": 19,
+    "titulo": "Demon Slayer",
+    "puntaje": 10,
+    "tipo": "serie",
+    "genero": ["accion", "sobrenatural", "aventura"]
+  },
+  {
+    "id": 20,
+    "titulo": "One Punch Man",
+    "puntaje": 9,
+    "tipo": "serie",
+    "genero": ["accion", "comedia", "parodia"]
+  },
+  {
+    "id": 21,
+    "titulo": "Akira",
+    "puntaje": 9,
+    "tipo": "pelicula",
+    "genero": ["ciencia ficcion", "accion", "psicologico"]
+  },
+  {
+    "id": 22,
+    "titulo": "Your Name",
+    "puntaje": 10,
+    "tipo": "pelicula",
+    "genero": ["romance", "fantasia", "drama"]
+  },
+  {
+    "id": 23,
+    "titulo": "Spirited Away",
+    "puntaje": 9,
+    "tipo": "pelicula",
+    "genero": ["fantasia", "aventura", "drama"]
+  },
+  {
+    "id": 24,
+    "titulo": "Grave of the Fireflies",
+    "puntaje": 10,
+    "tipo": "pelicula",
+    "genero": ["drama", "historico", "guerra"]
+  },
+  {
+    "id": 25,
+    "titulo": "Ghost in the Shell",
+    "puntaje": 8,
+    "tipo": "pelicula",
+    "genero": ["ciencia ficcion", "accion", "cyberpunk"]
+  },
+  {
+    "id": 26,
+    "titulo": "Princess Mononoke",
+    "puntaje": 7,
+    "tipo": "pelicula",
+    "genero": ["fantasia", "aventura", "accion"]
+  },
+  {
+    "id": 27,
+    "titulo": "Perfect Blue",
+    "puntaje": 9,
+    "tipo": "pelicula",
+    "genero": ["psicologico", "terror", "thriller"]
+  },
+  {
+    "id": 28,
+    "titulo": "Paprika",
+    "puntaje": 10,
+    "tipo": "pelicula",
+    "genero": ["ciencia ficcion", "psicologico", "fantasia"]
+  },
+  {
+    "id": 29,
+    "titulo": "Millennium Actress",
+    "puntaje": 9,
+    "tipo": "pelicula",
+    "genero": ["drama", "romance", "aventura"]
+  },
+  {
+    "id": 30,
+    "titulo": "Grave of the Fireflies",
+    "puntaje": 8,
+    "tipo": "pelicula",
+    "genero": ["drama", "historico", "guerra"]
+  }
+]
